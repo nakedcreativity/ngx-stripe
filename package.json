@@ -1,16 +1,16 @@
 {
   "$schema": "./node_modules/ng-packagr/package.schema.json",
-  "name": "@nomadreservations/ngx-stripe",
-  "version": "1.2.2",
+  "name": "@nakedcreativity/ngx-stripe",
+  "version": "1.2.4",
   "description": "@angular wrapper for StripeJS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nomadreservations/ngx-stripe.git"
+    "url": "https://github.com/nakedcreativity/ngx-stripe.git"
   },
   "bugs": {
-    "url": "https://github.com/nomadreservations/ngx-stripe/issues"
+    "url": "https://github.com/nakedcreativity/ngx-stripe/issues"
   },
-  "homepage": "https://github.com/nomadreservations/ngx-stripe",
+  "homepage": "https://github.com/nakedcreativity/ngx-stripe",
   "keywords": [
     "angular",
     "javascript",
